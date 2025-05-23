@@ -14,7 +14,7 @@ Feel free to join the [Bad Business Discord](<https://discord.gg/badbusiness>) i
 
 
 # NOTES:
-- Occasionally, maps will not load properly due to the size of the map's data. This sadly can only be fixed via restarting the server (Shutting it down and then rejoining) due to ruddev not having the importing function run in multiple threads.
+- Occasionally, maps will not load properly due to the size of the map's data. This sadly can only be fixed via restarting the server (Shutting it down and then rejoining).
 - In order to hopefully have faster load times, I purposely removed some smaller details from maps. These were mainly just small grass shrubs or other minor details that probably don't look very off-putting.
 
 
